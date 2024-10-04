@@ -1,6 +1,4 @@
 <h2>Hi there, I'm MINSEOK KANG 👋</h2>
-I'm Minseok Kang, a developer who befriends bugs while learning.
-<hr>
 
 [![Kangarooseok’s github stats](https://github-readme-stats.vercel.app/api?username=Kangarooseok&show_icons=true&theme=radical)](https://github.com/Kangarooseok/github-readme-stats) <br>
 
