@@ -1,5 +1,5 @@
 <h2>Hi there, I'm MINSEOK KANG 👋</h2>
-버그를 친구로 만드는 개발자, 강민석입니다.🐞
+버그를 친구로 만드는 개발자, 강민석입니다.🐞 <br>
 I'm Minseok Kang, a developer who befriends bugs while learning.
 <hr>
 
